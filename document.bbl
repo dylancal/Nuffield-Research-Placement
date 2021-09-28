@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+
+\bibitem{totient}
+Eric~W Weisstein.
+\newblock Totiemt function, from mathworld -- a wolfram web resource.
+\newblock Accessed on 2020-8-26.
+
+\bibitem{bifdia}
+McMaster University.
+\newblock Bifurcation diagram of the logistic map.
+\newblock Accessed on 2020-8-23.
+
+\bibitem{4cyclim}
+Eric~W Weisstein.
+\newblock Decimal expansion of the bifurcation point b3, the onset of an
+  8-cycle in the logistic equation.
+\newblock Accessed on 2020-8-23.
+
+\bibitem{logis}
+Eric~W Weisstein.
+\newblock Logistic map, from mathworld -- a wolfram web resource.
+\newblock Accessed on 2020-8-23.
+
+\bibitem{allcyclim}
+Eric~W Weisstein.
+\newblock Decimal expansion of the accumulation point of the logistic map.
+\newblock Accessed on 2020-8-23.
+
+\end{thebibliography}

@@ -1,0 +1,37 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Asymptotes of a Möbius function\relax }}{3}{figure.caption.3}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Two fixed points on a Mobius function\relax }}{4}{figure.caption.4}%
+\contentsline {figure}{\numberline {3}{\ignorespaces A better way to visualise the convergence of the sequence towards a fixed point, plotting $x_n$ against $n$\relax }}{6}{figure.caption.6}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Cobweb plot showing convergence towards a fixed point on a Möbius function\relax }}{7}{figure.caption.7}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Convergence towards attracting fixed point when $x_0$ is close to the repelling fixed point\relax }}{7}{figure.caption.8}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Cobweb plot for a 3-cycle Möbius sequence\relax }}{9}{figure.caption.10}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Representing $n$\textsuperscript {th} roots of unity on an Argand diagram\relax }}{12}{figure.caption.11}%
+\contentsline {figure}{\numberline {8}{\ignorespaces 7-cycle for $k=1$\relax }}{16}{figure.caption.13}%
+\contentsline {figure}{\numberline {9}{\ignorespaces 7-cycle for $k=2$\relax }}{16}{figure.caption.13}%
+\contentsline {figure}{\numberline {10}{\ignorespaces 7-cycle for $k=3$\relax }}{16}{figure.caption.13}%
+\contentsline {figure}{\numberline {11}{\ignorespaces All 7-cycles plotted in the same $a,\tmspace +\thickmuskip {.2777em}b,\tmspace +\thickmuskip {.2777em}d$ space\relax }}{16}{figure.caption.14}%
+\contentsline {figure}{\numberline {12}{\ignorespaces $rx(1-x)$ against $y=x$\relax }}{18}{figure.caption.15}%
+\contentsline {figure}{\numberline {13}{\ignorespaces A cobweb plot showing convergence towards a fixed point on a period doubling sequence\relax }}{19}{figure.caption.16}%
+\contentsline {figure}{\numberline {14}{\ignorespaces \centering {A graph showing how different values of $r$ affects the rate of convergence $r=2.79,\tmspace +\thickmuskip {.2777em}2.89,\tmspace +\thickmuskip {.2777em}2.99$ from least transparent to most transparent respectively}\relax }}{19}{figure.caption.17}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Converge towards a limiting 2-cycle in the period doubling sequence, plotting values of $x_n$\relax }}{20}{figure.caption.19}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Converge towards a limiting 2-cycle in the period doubling sequence on a cobweb plot\relax }}{20}{figure.caption.19}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Perfect 2-cycle on the period doubling sequence, plotting $x_n$ against $n$\relax }}{21}{figure.caption.20}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Perfect 2-cycle on the period doubling sequence, shown via a cobweb plot\relax }}{21}{figure.caption.20}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Perfect 4-cycle on the period doubling sequence, plotting $x_n$ against $n$\relax }}{22}{figure.caption.21}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Perfect 4-cycle on the period doubling sequence, shown via a cobweb plot\relax }}{22}{figure.caption.21}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Chaotic behaviour of the period doubling sequence, plotting $x_n$ against $n$\relax }}{22}{figure.caption.22}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Chaotic behaviour of the period doubling sequence, shown on a cobweb plot\relax }}{22}{figure.caption.22}%
+\contentsline {figure}{\numberline {23}{\ignorespaces The values for the differential of $f^2(x)$ at one of the fixed points graphed against $a$\relax }}{23}{figure.caption.23}%
+\contentsline {figure}{\numberline {24}{\ignorespaces The bifurcation diagram of $rx\left (1-x\right )$ \tmspace +\thickmuskip {.2777em} \cite {bifdia}\relax }}{24}{figure.caption.24}%
+\contentsline {figure}{\numberline {25}{\ignorespaces 3 cycle in the chaotic region of the period doubling sequence, plotting $x_n$ against $n$\relax }}{25}{figure.caption.25}%
+\contentsline {figure}{\numberline {26}{\ignorespaces 3 cycle in the chaotic region of the period doubling sequence, shown on a cobweb plot\relax }}{25}{figure.caption.25}%
+\contentsline {figure}{\numberline {27}{\ignorespaces 5 cycle in the chaotic region of the period doubling sequence, plotting $x_n$ against $n$\relax }}{25}{figure.caption.26}%
+\contentsline {figure}{\numberline {28}{\ignorespaces 5 cycle in the chaotic region of the period doubling sequence, shown on a cobweb plot\relax }}{25}{figure.caption.26}%
+\contentsline {figure}{\numberline {29}{\ignorespaces 6 cycle in the chaotic region of the period doubling sequence, plotting $x_n$ against $n$\relax }}{25}{figure.caption.27}%
+\contentsline {figure}{\numberline {30}{\ignorespaces 6 cycle in the chaotic region of the period doubling sequence, shown on a cobweb plot\relax }}{25}{figure.caption.27}%
+\contentsline {figure}{\numberline {31}{\ignorespaces A plot that shows how small changes in the starting values of the period doubling sequence result in drastically different outcomes\relax }}{26}{figure.caption.28}%
+\contentsline {figure}{\numberline {32}{\ignorespaces A plot for later $n$ that shows how small changes in the starting values of the period doubling sequence result in drastically different outcomes\relax }}{26}{figure.caption.29}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Keep and escape sets shown in the $x,\tmspace +\thickmuskip {.2777em}y$ plane, with the $y$-axis as the complex part\relax }}{29}{figure.caption.30}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Keep and escape sets shown in the $x,\tmspace +\thickmuskip {.2777em}y$ plane, with the $y$-axis as the complex part\relax }}{29}{figure.caption.31}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Keep and escape sets shown in the $x,\tmspace +\thickmuskip {.2777em}y$ plane, with the $y$-axis as the complex part\relax }}{29}{figure.caption.32}%
+\contentsline {figure}{\numberline {36}{\ignorespaces The keep and escape sets for $c=-2$\relax }}{30}{figure.caption.33}%
+\contentsline {figure}{\numberline {37}{\ignorespaces The keep and escape sets for $c=-2$\relax }}{33}{figure.caption.34}%
